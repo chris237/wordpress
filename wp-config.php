@@ -21,6 +21,7 @@
 // ** Réglages MySQL - Votre hébergeur doit vous fournir ces informations. ** //
 
 define('FS_METHOD', 'direct');
+define('WP_DEBUG', false );
 /** Nom de la base de données de WordPress. */
 define('DB_NAME', 'direx');
 /** Utilisateur de la base de données MySQL. */
